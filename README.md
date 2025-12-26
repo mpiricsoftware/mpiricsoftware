@@ -1,12 +1,77 @@
+<h1 align="center">🚀 MPIRIC Software</h1>
 
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mpiricsoftware&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mpiricsoftware&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpiricsoftware&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <b>Your Trusted Technology Partner</b><br>
+  Delivering high-performance Software Products, AI Solutions, Web Platforms & Enterprise Applications.
+</p>
+
+<p align="center">
+  <a href="https://mpiricsoftware.com">🌐 Website</a> •
+  <a href="mailto:info@mpiricsoftware.com">📧 Contact</a> •
+  <a href="https://www.linkedin.com/company/mpiric-software/">💼 LinkedIn</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mpiricsoftware&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏢 About MPIRIC Software
+MPIRIC Software is a full-stack IT company specializing in building scalable digital solutions for global clients.  
+We transform ideas into powerful products using modern technologies and best engineering practices.
+
+✔ Enterprise Software Development  
+✔ SaaS Platforms  
+✔ AI & Machine Learning Solutions  
+✔ Web, WordPress & E-commerce Solutions  
+✔ SEO & Digital Transformation  
+✔ Performance-driven Engineering
+
+---
+
+## 🧠 Our Tech Expertise
+
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=laravel,php,python,flask,java,js,ts,react,nextjs,vue,html,css,bootstrap,wordpress,mysql,postgresql,mongodb,redis,git,github,githubactions,aws,gcp,docker,kubernetes" />
+
+</p>
+
+---
+
+## ⭐ Flagship Products & Solutions
+
+### 🔹 SWFT – Smart Digital Business Card Platform
+A smart NFC-enabled digital networking platform used globally.
+
+### 🔹 Kaizen Forge – Continuous Improvement Management System
+A powerful enterprise Kaizen system for manufacturing & operations excellence.
+
+### 🔹 CRM, Healthcare, CCTV, AI Solutions & Custom Enterprise Platforms
+We build business-critical applications trusted by organizations worldwide.
+
+---
+
+## 📊 GitHub Highlights
+- 🔥 100+ Private & Public Projects  
+- 👨‍💻 Enterprise-grade development  
+- 🚀 Actively building AI-driven platforms  
+- 🤝 Open for collaboration & partnerships  
+
+---
+
+## 🧩 Open Source & Contributions
+We believe in contributing to the tech ecosystem.  
+More public repositories & open-source tools will be coming soon!
+
+---
+
+## 🤝 Work With Us
+Looking to build something powerful?
+
+📩 info@mpiricsoftware.com  
+🌐 https://mpiricsoftware.com  
+📍 Ahmedabad, India
+
+---
+
+<p align="center">
+Made with ❤️ by <b>MPIRIC Software Team</b>
+</p>
