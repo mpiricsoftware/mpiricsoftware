@@ -13,7 +13,7 @@
 
 ---
 
-## 🏢 About MPIRIC Software
+## 🏢 About Mpiric Software
 Mpiric Software is a full-stack technology company delivering high-performance digital products, AI-powered platforms, Linux system engineering, and enterprise-grade software solutions.
 
 We help businesses transform ideas into powerful, real-world products 🚀
@@ -26,60 +26,103 @@ We help businesses transform ideas into powerful, real-world products 🚀
 We design and deploy AI-driven platforms for real-world impact:
 
 ✔ Predictive Analytics & Business Intelligence  
-✔ NLP-based Automation Platforms  
-✔ Computer Vision Solutions  
-✔ Recommendation & Personalization Engines  
-✔ AI SaaS Product Development  
-
-🎯 **Highlighted AI Projects**
-- **MPIRIC Insight AI**
-  Enterprise predictive analytics platform used for manufacturing, healthcare & business decision automation.
-- **VisionGuard AI**
-  Intelligent CCTV & surveillance solution with face recognition, license plate detection & anomaly alerts.
-- **DocSense AI**
-  Smart document intelligence platform for OCR, invoice processing & business workflow automation.
-- **NeuroChat**
-  AI conversational engine trained for enterprise knowledge bases & support automation.
+✔ NLP Automation & Knowledge AI  
+✔ Computer Vision & Surveillance Intelligence  
+✔ AI SaaS Product Engineering  
 
 ---
 
-### 🐧 Linux Kernel & System Engineering
-We work on low-level system development built for performance, control & optimization.
+## 🤖 AI Projects Showcase
+
+<table>
+<tr>
+<td>
+
+### 🔥 InsightAI – Predictive Intelligence Platform  
+Enterprise AI platform for business forecasting and anomaly detection.  
+- 📈 Demand prediction  
+- 🧾 KPI AI insights  
+- 🏭 Manufacturing analytics  
+
+**Tech:** Python • TensorFlow • FastAPI • React  
+⭐ Status: Enterprise Ready
+
+</td>
+<td>
+
+### 🎥 VisionGuard AI – Smart CCTV Analytics  
+Real-time AI surveillance & smart monitoring system.  
+- 👤 Face recognition  
+- 🚗 License plate detection  
+- ⚠️ Suspicious event alerts  
+
+**Tech:** Python • Deep Learning • Edge AI  
+⭐ Status: In Use
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📄 DocSense AI – Intelligent Document Processing  
+AI platform to read, extract & automate business documents.  
+- 🔍 OCR  
+- 🧾 Invoice Automation  
+- 🧠 NLP Processing  
+
+**Tech:** Transformers • OCR • Python  
+⭐ Status: Production Ready
+
+</td>
+<td>
+
+### 💬 NeuroChat AI – Enterprise Knowledge Assistant  
+Secure private AI chatbot trained on company knowledge.  
+- 🔐 Secure Internal LLM  
+- 📚 Company Knowledge  
+- 🤖 Automated Support  
+
+**Tech:** LLM • RAG • Vector DB  
+⭐ Status: Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐧 Linux Engineering
+
+We work on performance-driven low-level technology.
 
 ✔ Linux Kernel Customization  
-✔ Device Drivers & Embedded Linux  
-✔ Security Hardening & OS Optimization  
-✔ Real-time & High Performance Systems  
-✔ Server, Networking & Infrastructure Optimization  
-
-🎯 **Highlighted Linux Projects**
-- **MPIRIC Edge OS**
-  Custom Linux build optimized for industrial IoT & edge processing devices.
-- **KernelBoost**
-  Performance-tuned Linux kernel distribution for compute intensive environments.
-- **SecureCore**
-  Hardened Linux security architecture setup for enterprises and secure data environments.
+✔ Embedded & Edge Linux  
+✔ Secure System Engineering  
+✔ Real-time Performance Optimization  
 
 ---
 
-### 🌐 Web, SaaS & Enterprise Development
-We build high-quality digital products & enterprise software systems.
+## 🧾 Linux Engineering Case Studies
 
-✔ SaaS Products  
-✔ CRM / ERP Solutions  
-✔ Healthcare Platforms  
-✔ Custom Business Applications  
+- 🔥 [KernelBoost – Performance Linux OS](case-studies/linux/kernelboost.md)
+- 🌐 [EdgeOS – Custom Linux for Edge](case-studies/linux/edgeos.md)
+- 🛡️ [SecureCore – Hardened Enterprise Linux](case-studies/linux/securecore.md)
+
+---
+
+## 🌐 Web, SaaS & Enterprise Development
+
+✔ SaaS Product Engineering  
+✔ CRM / ERP Platforms  
+✔ Healthcare Systems  
 ✔ WordPress & Enterprise Websites  
 
-🎯 **Highlighted Web & SaaS Products**
-- **SWFT**
-  Smart NFC-based digital identity & networking platform.
-- **Kaizen Forge**
-  Enterprise continuous improvement & manufacturing efficiency platform.
-- **MediBridge**
-  Healthcare record management & patient intelligence system.
-- **RetailPro**
-  Smart inventory, POS & analytics platform for retail businesses.
+### 🚀 Flagship Digital Products
+- 🔹 **SWFT** – NFC Digital Smart Business Card Platform  
+- 🔹 **Kaizen Forge** – Enterprise Kaizen Platform  
+- 🔹 **MediBridge** – Healthcare Intelligence Platform  
+- 🔹 **RetailPro** – POS + Smart Inventory System  
 
 ---
 
@@ -93,14 +136,14 @@ We build high-quality digital products & enterprise software systems.
 
 ## 📊 GitHub Highlights
 - 🔥 100+ Private & Public Projects  
-- 🧠 Strong AI, Linux & Enterprise Engineering Teams  
-- 🚀 Product-driven & Innovation-focused Development  
-- 🤝 Collaboration-friendly Culture  
+- 🧠 Strong AI, Linux & Enterprise Engineering  
+- 🚀 Product-driven Innovation Culture  
+- 🤝 Collaboration Friendly  
 
 ---
 
 ## 🧩 Open Source & Innovation
-We believe in building and sharing.  
+We believe in building & sharing.  
 More AI tools • Linux utilities • SaaS components coming soon.
 
 ---
@@ -115,5 +158,5 @@ We collaborate with startups, enterprises & innovators worldwide.
 ---
 
 <p align="center">
-Made with ❤️ by <b>MPIRIC Software Team</b>
+Made with ❤️ by <b>Mpiric Software Team</b>
 </p>
