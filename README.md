@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Your Trusted Technology Partner</b><br>
-  Delivering high-performance Software Products, AI Solutions, Web Platforms & Enterprise Applications.
+  Delivering Enterprise Software, AI Solutions, Linux Kernel Engineering & Web Platforms.
 </p>
 
 <p align="center">
@@ -14,24 +14,36 @@
 ---
 
 ## 🏢 About MPIRIC Software
-MPIRIC Software is a full-stack IT company specializing in building scalable digital solutions for global clients.  
-We transform ideas into powerful products using modern technologies and best engineering practices.
+MPIRIC Software is a full-stack IT company specializing in building scalable digital solutions and high-performance system applications.
+
+We work across industries globally delivering:
 
 ✔ Enterprise Software Development  
 ✔ SaaS Platforms  
+✔ **Linux Kernel & System-Level Engineering**  
 ✔ AI & Machine Learning Solutions  
 ✔ Web, WordPress & E-commerce Solutions  
 ✔ SEO & Digital Transformation  
-✔ Performance-driven Engineering
 
 ---
 
-## 🧠 Our Tech Expertise
+## 🧠 Core Expertise
+
+### 🔥 Linux Kernel & System Engineering
+We work on:
+- Linux kernel customization & optimization
+- Device drivers & platform integration
+- Embedded Linux systems
+- Performance tuning & security hardening
+- System resource optimization
+- Real-time processing environments
+
+---
+
+## 🧠 Technology Stack
 
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=laravel,php,python,flask,java,js,ts,react,nextjs,vue,html,css,bootstrap,wordpress,mysql,postgresql,mongodb,redis,git,github,githubactions,aws,gcp,docker,kubernetes" />
-
+<img src="https://skillicons.dev/icons?i=linux,raspberrypi,c,cpp,bash,python,php,laravel,flask,java,js,ts,react,nextjs,vue,html,css,bootstrap,wordpress,mysql,postgresql,mongodb,redis,git,github,githubactions,aws,gcp,docker,kubernetes" />
 </p>
 
 ---
@@ -42,24 +54,24 @@ We transform ideas into powerful products using modern technologies and best eng
 A smart NFC-enabled digital networking platform used globally.
 
 ### 🔹 Kaizen Forge – Continuous Improvement Management System
-A powerful enterprise Kaizen system for manufacturing & operations excellence.
+Enterprise Kaizen software for manufacturing excellence.
 
-### 🔹 CRM, Healthcare, CCTV, AI Solutions & Custom Enterprise Platforms
-We build business-critical applications trusted by organizations worldwide.
+### 🔹 Enterprise & Industry Solutions
+CRM • Healthcare • AI Platforms • CCTV • Automation • Custom ERP
 
 ---
 
 ## 📊 GitHub Highlights
 - 🔥 100+ Private & Public Projects  
-- 👨‍💻 Enterprise-grade development  
-- 🚀 Actively building AI-driven platforms  
+- 🧠 Advanced System Engineering & AI Expertise  
+- 🚀 Building production-grade enterprise platforms  
 - 🤝 Open for collaboration & partnerships  
 
 ---
 
-## 🧩 Open Source & Contributions
+## 🧩 Open Source & Community
 We believe in contributing to the tech ecosystem.  
-More public repositories & open-source tools will be coming soon!
+More open-source releases coming soon.
 
 ---
 
@@ -68,7 +80,7 @@ Looking to build something powerful?
 
 📩 info@mpiricsoftware.com  
 🌐 https://mpiricsoftware.com  
-📍 Ahmedabad, India
+📍 Ahmedabad, India  
 
 ---
 
