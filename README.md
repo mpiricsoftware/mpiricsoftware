@@ -14,7 +14,7 @@
 ---
 
 ## 🏢 About MPIRIC Software
-MPIRIC Software is a full-stack technology company delivering high-performance digital products, AI-powered platforms, Linux system engineering, and enterprise-grade software solutions.
+Mpiric Software is a full-stack technology company delivering high-performance digital products, AI-powered platforms, Linux system engineering, and enterprise-grade software solutions.
 
 We help businesses transform ideas into powerful, real-world products 🚀
 
